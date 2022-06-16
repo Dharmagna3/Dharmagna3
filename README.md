@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dharmagna3
+- 👋 Hi, I’m @Dharmagna_Pandya
 - 👀 I’m interested in ...keep learning and devloping
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Any platform I learned so far
